@@ -595,7 +595,7 @@ Follow these steps to explore the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Global-Superstore-Sales-Analysis.git
+git clone https://github.com/sobhankundu/Global-Superstore-Sales-Data-Analysis.git
 ```
 
 ### 2. Open the Python Notebooks
