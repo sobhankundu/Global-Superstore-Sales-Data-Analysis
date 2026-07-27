@@ -40,7 +40,7 @@ An end-to-end **Data Analytics** project developed by **Sobhan Kundu** using **P
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 The Global Superstore dataset contains retail sales transactions from multiple countries and markets. The objective of this project is to transform raw transactional data into meaningful business insights using industry-standard data analytics tools and techniques.
 
@@ -53,7 +53,7 @@ This project follows a complete analytics workflow:
 
 Through this project, I applied data analysis, SQL, data visualization, and business intelligence concepts to identify sales trends, customer behavior, product performance, and profitability across different markets.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The primary objective of this project is to analyze the Global Superstore dataset and uncover meaningful business insights that can support data-driven decision-making.
 
@@ -69,7 +69,7 @@ The project aims to:
 - Design an interactive Power BI dashboard to present key business metrics and insights.
 
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 
 This analysis addresses several important business questions, including:
 
@@ -84,7 +84,7 @@ This analysis addresses several important business questions, including:
 9. What is the average order value and profit margin?
 10. What business recommendations can improve overall performance?
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 This project follows a structured end-to-end data analytics workflow, transforming raw data into meaningful business insights through multiple stages of analysis and visualization.
 
@@ -134,7 +134,7 @@ This project follows a structured end-to-end data analytics workflow, transformi
 - Evaluated customer purchasing behavior.
 - Recommended data-driven strategies to improve sales and profitability.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Global-Superstore-Sales-Analysis/
@@ -183,7 +183,7 @@ Global-Superstore-Sales-Analysis/
 | **LICENSE**       | Open-source license for the repository. |
 | **.gitignore**    | Specifies files and folders to be ignored by Git. |
 
-## 📁 Dataset Information
+##  Dataset Information
 
 | Attribute | Details |
 |-----------|---------|
@@ -201,7 +201,7 @@ The Global Superstore dataset contains transactional retail sales data collected
 The dataset is well suited for business intelligence and data analytics projects because it enables the analysis of sales performance, customer behavior, profitability, market trends, and operational efficiency.
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 The following tools and technologies were used throughout this project:
 
@@ -221,7 +221,7 @@ The following tools and technologies were used throughout this project:
 
 
 
-## 💼 Skills Demonstrated
+##  Skills Demonstrated
 
 This project demonstrates proficiency in:
 
@@ -236,11 +236,11 @@ This project demonstrates proficiency in:
 - Problem Solving
 - Data Storytelling
 
-## 🐍 Python Workflow
+##  Python Workflow
 
 Python was used for data cleaning, preprocessing, feature engineering, and exploratory data analysis (EDA) to prepare the dataset for SQL analysis and Power BI dashboard development.
 
-### 🗄️ Data Cleaning & Preprocessing
+###  Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -311,7 +311,7 @@ The cleaned and transformed dataset served as the foundation for:
 - Power BI dashboard development
 - Business insights and recommendations
 
-## 🗄️ SQL Workflow
+##  SQL Workflow
 
 MySQL was used to perform business analysis on the cleaned Global Superstore dataset. SQL queries were written to extract meaningful insights, calculate key performance indicators (KPIs), and answer important business questions.
 
@@ -395,7 +395,7 @@ SQL/
 
 The SQL analysis transformed raw transactional data into meaningful business insights, which were later visualized in Power BI dashboards. The queries helped identify sales trends, customer behavior, product performance, profitability, and operational patterns to support data-driven decision-making.
 
-### 📊 Power BI Dashboard
+###  Power BI Dashboard
 
 The final stage of this project involved developing an interactive Power BI dashboard to transform the SQL analysis and Python insights into visually compelling and actionable business intelligence.
 
@@ -500,7 +500,7 @@ Summarizes the overall analysis by highlighting important findings and providing
 
 
 
-## 💡 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 The dashboard tracks the following KPIs:
 
@@ -571,7 +571,7 @@ The analysis of the Global Superstore dataset revealed several important busines
 
 ---
 
-## 📌 Business Recommendations
+##  Business Recommendations
 
 Based on the analysis, the following recommendations can help improve business performance:
 
@@ -588,7 +588,7 @@ Based on the analysis, the following recommendations can help improve business p
 
 
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 Follow these steps to explore the project:
 
@@ -614,7 +614,7 @@ Open the `Global_Superstore_Dashboard.pbix` file using **Microsoft Power BI Desk
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Potential enhancements for this project include:
 
@@ -627,7 +627,7 @@ Potential enhancements for this project include:
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project helped strengthen practical skills in:
 
@@ -645,7 +645,7 @@ This project helped strengthen practical skills in:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sobhan Kundu**
 
@@ -672,6 +672,6 @@ If you found this project helpful or interesting, consider giving it a ⭐ on Gi
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
