@@ -139,6 +139,7 @@ Global-Superstore-Sales-Analysis/
 │   └── Global_Superstore_Dashboard.pbix
 │
 ├── Dataset/
+|   ├── Global Superstore.xls
 │   └── Global_Superstore_Cleaned.csv
 │
 ├── Python/
@@ -169,7 +170,7 @@ Global-Superstore-Sales-Analysis/
 | Folder/File       | Description |
 |-------------------|-------------|
 | **Dashboard/**    | Contains the Power BI dashboard (.pbix) file. |
-| **Dataset/**      | Stores the cleaned Global Superstore dataset used for analysis. |
+| **Dataset/**      | Stores the original and cleaned Global Superstore dataset used for analysis. |
 | **Python/**       | Includes Jupyter notebooks for data cleaning and exploratory data analysis (EDA). |
 | **SQL/**          | Contains SQL scripts, documentation, and SQL output screenshots. |
 | **Images/**       | Stores dashboard screenshots used in this README. |
